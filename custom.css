@@ -93,6 +93,57 @@ div.row-fluid [class*="span"] .center-in-span { float: none; margin: 0 auto; tex
   font-size: 40px;
 }*/
 
+
+/* Pricing boxes STYLES
+-------------------------------------------------- */
+
+.price-boxes{
+  overflow:hidden;
+  text-align:center;
+  color:#bdc3c7;
+}
+
+.price-box{
+  position:relative;
+  padding:26px 17px 39px 18px;
+  border:3px solid #ebedee;
+  border-radius:5px;
+  float:left;
+  margin:0 0 0 22px;
+}
+
+.price-boxes .price-box:first-child{margin:0;}
+.price-box h3{
+  font-size:22px;
+  line-height:28px;
+  color:#2c3e50;
+  margin:0 0 8px;
+  opacity:0.95;
+}
+.price-box .title{
+  display:block;
+  font-weight:normal;
+  font-size:20px;
+  line-height:24px;
+  color: #16a085;
+  font-weight:bold;
+  padding:0 0 17px;
+  margin:0 0 20px;
+  border-bottom:2px solid #ecf0f1;
+}
+
+.title-grey{
+  color:#bdc3c9;
+}
+
+.price-box .list{margin:0 0 29px;}
+.price-box .list strong{color:#7f8c8d;}
+
+.price-boxes ul {
+  display: block;
+  list-style-type: none;
+}
+
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Lighter body text */
