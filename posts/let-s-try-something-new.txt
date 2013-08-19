@@ -1,8 +1,0 @@
-.. link: 
-.. description: 
-.. tags: 
-.. date: 2013/08/09 20:48:51
-.. title: Let s try something new
-.. slug: let-s-try-something-new
-
-Write your post here.
