@@ -18,7 +18,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="media">
-                  <img class="media-object pull-left" src="assets/user_cases_files/glyphicons_043_group2x.png" width="50">
+                  <img class="media-object pull-left" src="assets/user_cases_files/glyphicons_043_group2x.png" width="50" alt="Local Government"/>
                   <div class="media-body">
                     <h2 class="media-heading">LOCAL GOVERNMENT</h2>
                     <div class="media">

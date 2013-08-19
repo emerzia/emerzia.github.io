@@ -15,4 +15,3 @@ Nikola intends to let you do slideshows easily:
    /galleries/demo/tesla4_lg.jpg
    /galleries/demo/tesla_lightning1_lg.jpg
    /galleries/demo/tesla_tower1_lg.jpg
-

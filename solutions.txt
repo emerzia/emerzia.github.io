@@ -18,7 +18,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="media">
-                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Mass Emergency Broadcasting"/>
                     <div class="media-body">
                         <h3 class="media-heading">Mass Emergency Broadcasting</h3>
                         <div class="media">
@@ -34,7 +34,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="media">
-                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Telemarketing"/>
                     <div class="media-body">
                         <h3 class="media-heading">Telemarketing</h3>
                         <div class="media">
@@ -52,7 +52,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="media">
-                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Phone Polling, Surveys & Voting"/>
                     <div class="media-body">
                         <h3 class="media-heading">Phone Polling, Surveys & Voting</h3>
                         <div class="media">
@@ -70,7 +70,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="media">
-                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Payment Reminders & Debt Control"/>
                     <div class="media-body">
                         <h3 class="media-heading">Payment Reminders & Debt Control</h3>
                         <div class="media">
@@ -88,7 +88,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="media">
-                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Live Lead Generation"/>
                     <div class="media-body">
                         <h3 class="media-heading">Live Lead Generation</h3>
                         <div class="media">
@@ -104,7 +104,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="media">
-                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="SMS Broadcasting"/>
                     <div class="media-body">
                         <h3 class="media-heading">SMS Broadcasting</h3>
                         <div class="media">
@@ -120,7 +120,7 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="media">
-                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Outbound Call Conferencing" />
                     <div class="media-body">
                         <h3 class="media-heading">Outbound Call Conferencing</h3>
                         <div class="media">

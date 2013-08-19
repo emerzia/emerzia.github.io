@@ -8,9 +8,10 @@
                 make millions of calls in a few hours making it a versatile and
                 effective way of notifying people about emergency situations.
             </p>
+
             <div class="row-fluid">
                 <div class="span4 offset4">
-                    <a class="btn btn-large btn-info center-in-span" href="#">Schedule a demo today</a>
+                    <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
                 </div>
             </div>
         </div>
@@ -105,7 +106,7 @@
 
             <div class="span6">
                 <div class="tile">
-                    <img src="assets/glyphicons/glyphicons_032_wifi_alt@2x.png" alt="Reversopm Phone Emergency" width="40">
+                    <img src="assets/glyphicons/glyphicons_032_wifi_alt@2x.png" alt="Reversopm Phone Emergency" width="40" alt=""/>
                     <h3 class="tile-title">UNIVERSITY CAMPUS</h3>
                     <p class="alignleft">
                     Multi-Server Emerzia system provided to a large educational establishment
@@ -131,7 +132,7 @@
             <div class="span4">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object" src="assets/glyphicons/glyphicons_042_pie_chart@2x.png" width="50">
+                        <img class="media-object" src="assets/glyphicons/glyphicons_042_pie_chart@2x.png" width="50" alt="" />
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">REALTIME REPORTING</h4>
@@ -145,7 +146,7 @@
             <div class="span4">
                 <div class="media">
                     <a class="pull-left" href="#">
-                        <img class="media-object" src="assets/glyphicons/glyphicons_057_history@2x.png" width="50">
+                        <img class="media-object" src="assets/glyphicons/glyphicons_057_history@2x.png" width="50" alt="" />
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">HIGH AVAILABILITY</h4>
@@ -159,7 +160,7 @@
             <div class="span4">
                 <div class="media">
                     <a class="pull-left" href="#">
-                    <img class="media-object" src="assets/glyphicons/glyphicons_010_envelope@2x.png" width="50">
+                    <img class="media-object" src="assets/glyphicons/glyphicons_010_envelope@2x.png" width="50" alt="" />
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">SMS SUPPORT</h4>
@@ -177,7 +178,7 @@
             <div class="span4">
                 <div class="media">
                     <a class="pull-left" href="#">
-                    <img class="media-object" src="assets/glyphicons/glyphicons_441_phone_alt@2x.png" width="50">
+                    <img class="media-object" src="assets/glyphicons/glyphicons_441_phone_alt@2x.png" width="50" alt="" />
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">AMD SUPPORT</h4>
@@ -191,7 +192,7 @@
             <div class="span4">
                 <div class="media">
                     <a class="pull-left" href="#">
-                    <img class="media-object" src="assets/glyphicons/glyphicons_048_dislikes@2x.png" width="50">
+                    <img class="media-object" src="assets/glyphicons/glyphicons_048_dislikes@2x.png" width="50" alt="" />
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">USER FRIENDLY</h4>
@@ -205,7 +206,7 @@
             <div class="span4">
                 <div class="media">
                     <a class="pull-left" href="#">
-                    <img class="media-object" src="assets/glyphicons/glyphicons_280_settings@2x.png" width="50">
+                    <img class="media-object" src="assets/glyphicons/glyphicons_280_settings@2x.png" width="50" alt="" />
                     </a>
                     <div class="media-body">
                         <h4 class="media-heading">API INTEGRATION</h4>
