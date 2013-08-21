@@ -41,7 +41,7 @@
 
         <div class="row-fluid">
             <div class="span6 center-in-span">
-                <img src="assets/features_files/ivr-interactive-voice-response.png" class="img-polaroid" alt="IVR interactive voice response" width="400">
+                <img src="assets/features-files/ivr-interactive-voice-response.png" class="img-polaroid" alt="IVR interactive voice response" width="400">
             </div>
             <div class="span6">
                 <h3 class="tile-title">FLEXIBLE IVR SYSTEM</h3>
@@ -61,7 +61,7 @@
                 </p>
             </div>
             <div class="span6 center-in-span">
-                <img src="assets/features_files/scalability.png" class="img-polaroid" alt="User Friendly" width="400">
+                <img src="assets/features-files/scalability.png" class="img-polaroid" alt="User Friendly" width="400">
             </div>
         </div>
 
@@ -69,7 +69,7 @@
 
         <div class="row-fluid">
             <div class="span6 center-in-span">
-                <img src="assets/features_files/answer_machine_detection.png" class="img-polaroid" alt="answer machine detection" width="400">
+                <img src="assets/features-files/answer-machine-detection.png" class="img-polaroid" alt="answer machine detection" width="400">
             </div>
             <div class="span6">
                 <h3 class="tile-title">VOICEMAIL DETECTION</h3>
@@ -90,7 +90,7 @@
                 </p>
             </div>
             <div class="span6 center-in-span">
-                <img src="assets/features_files/realtime_reporting.png" class="img-polaroid" alt="User Friendly" width="400">
+                <img src="assets/features-files/realtime-reporting.png" class="img-polaroid" alt="User Friendly" width="400">
             </div>
         </div>
 
@@ -98,7 +98,7 @@
 
         <div class="row-fluid">
             <div class="span6 center-in-span">
-                <img src="assets/features_files/server_cluster.png" class="img-polaroid" alt="Voice Broadcasting Cluster" width="400">
+                <img src="assets/features-files/server-cluster.png" class="img-polaroid" alt="Voice Broadcasting Cluster" width="400">
             </div>
             <div class="span6">
                 <h3 class="tile-title">SCALABLE / HIGH AVAILABILITY</h3>
@@ -118,7 +118,7 @@
                 </p>
             </div>
             <div class="span6 center-in-span">
-                <img src="assets/features_files/mobile_friendly.png" class="img-polaroid" alt="User Friendly" width="400">
+                <img src="assets/features-files/mobile-friendly.png" class="img-polaroid" alt="User Friendly" width="400">
             </div>
         </div>
 
@@ -126,7 +126,7 @@
 
         <div class="row-fluid">
             <div class="span6 center-in-span">
-                <img src="assets/features_files/user_friendly.png" class="img-polaroid" alt="User Friendly" width="400">
+                <img src="assets/features-files/user-friendly.png" class="img-polaroid" alt="User Friendly" width="400">
             </div>
             <div class="span6">
                 <h3 class="tile-title">USER FRIENDLY</h3>
@@ -146,7 +146,7 @@
                 </p>
             </div>
             <div class="span6 center-in-span">
-                <img src="assets/features_files/api.png" class="img-polaroid" alt="API Integration" width="400">
+                <img src="assets/features-files/api.png" class="img-polaroid" alt="API Integration" width="400">
             </div>
         </div>
 
@@ -154,7 +154,7 @@
 
         <div class="row-fluid">
             <div class="span6 center-in-span">
-                <img src="assets/features_files/sms_module.png" class="img-polaroid" alt="Contact Acquisition" width="400">
+                <img src="assets/features-files/sms-module.png" class="img-polaroid" alt="Contact Acquisition" width="400">
             </div>
             <div class="span6">
                 <h3 class="tile-title">SMS BROADCASTING</h3>
@@ -174,7 +174,7 @@
                 </p>
             </div>
             <div class="span6 center-in-span">
-                <img src="assets/features_files/contact_acquisition.png" class="img-polaroid" alt="Contact Acquisition" width="400">
+                <img src="assets/features-files/contact-acquisition.png" class="img-polaroid" alt="Contact Acquisition" width="400">
             </div>
         </div>
 

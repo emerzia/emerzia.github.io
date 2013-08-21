@@ -49,7 +49,7 @@
                         <strong class="title-grey">Cost (Installation & Training):</strong>
                         <strong class="title">POA</strong>
 
-                        <a href="contact_installation.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>POA</a>
+                        <a href="contact-installation.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>POA</a>
                     </div>
                     <div class="span4 price-box">
                         <h3>Standard</h3>
@@ -66,7 +66,7 @@
                         <strong class="title-grey">Cost (Installation & Training):</strong>
                         <strong class="title">$9000 USD</strong>
 
-                        <a href="contact_installation.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>$500 / month</a>
+                        <a href="contact-installation.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>$500 / month</a>
                     </div>
                     <div class="span4 price-box">
                         <h3>Lite</h3>
@@ -83,7 +83,7 @@
                         <strong class="title-grey">Cost (Installation & Training):</strong>
                         <strong class="title">$4000 USD</strong>
 
-                        <a href="contact_installation.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>Free</a>
+                        <a href="contact-installation.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>Free</a>
                     </div>
                 </div>
             </div>
@@ -122,7 +122,7 @@
             </div>
             <div class="span6">
                 <br/>
-                <a class="btn btn-large btn-info center-in-span" href="contact_installation.html">Contact us to arrange an installation</a>
+                <a class="btn btn-large btn-info center-in-span" href="contact-installation.html">Contact us to arrange an installation</a>
             </div>
         </div>
 
@@ -152,7 +152,7 @@
             </div>
             <div class="span6">
                 <br/>
-                <a class="btn btn-large btn-info center-in-span" href="contact_installation.html">Contact us to arrange an installation</a>
+                <a class="btn btn-large btn-info center-in-span" href="contact-installation.html">Contact us to arrange an installation</a>
             </div>
         </div>
 
@@ -185,7 +185,7 @@
             </div>
             <div class="span6">
                 <br/>
-                <a class="btn btn-large btn-info center-in-span" href="contact_installation.html">Contact us to arrange an installation</a>
+                <a class="btn btn-large btn-info center-in-span" href="contact-installation.html">Contact us to arrange an installation</a>
             </div>
         </div>
 

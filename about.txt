@@ -31,7 +31,7 @@
                     <br><br>
 
                     <div class="center-in-span">
-                        <a href="http://www.newfies-dialer.org/" target="_blank"><img src="assets/about_files/newfies-dialer.png" class="img-polaroid" alt="Emergency Calling system - Newfies-Dialer"></a>
+                        <a href="http://www.newfies-dialer.org/" target="_blank"><img src="assets/about-files/newfies-dialer.png" class="img-polaroid" alt="Emergency Calling system - Newfies-Dialer"></a>
                     </div>
                 </p>
             </div>
@@ -54,7 +54,7 @@
                     <br><br>
 
                     <div class="center-in-span">
-                        <a href="http://www.star2billing.com/" target="_blank"><img src="assets/about_files/star2billing.png" class="img-polaroid" alt="Emergency Calling system - Star2Billing"></a>
+                        <a href="http://www.star2billing.com/" target="_blank"><img src="assets/about-files/star2billing.png" class="img-polaroid" alt="Emergency Calling system - Star2Billing"></a>
                     </div>
                 </p>
             </div>

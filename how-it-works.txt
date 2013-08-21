@@ -33,7 +33,7 @@
                     <br><br>
 
                     <div class="center-in-span">
-                        <img src="assets/how_it_works_files/how_it_works.png" class="img-polaroid" alt="Emergency Calling system - how it works">
+                        <img src="assets/how-it-works-files/how-it-works.png" class="img-polaroid" alt="Emergency Calling system - how it works">
                     </div>
 
                     <br>
@@ -70,7 +70,7 @@
                         <p style="color:red">
                             Screenshot will be changed
                         </p>
-                        <img src="assets/how_it_works_files/phone-blasting.png" class="img-polaroid" alt="Emergency Calling system - Phone Blast">
+                        <img src="assets/how-it-works-files/phone-blasting.png" class="img-polaroid" alt="Emergency Calling system - Phone Blast">
                     </div>
 
                     <p>&nbsp;</p>
