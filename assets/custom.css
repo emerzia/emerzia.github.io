@@ -68,7 +68,7 @@ div.row-fluid [class*="span"] .center-in-span { float: none; margin: 0 auto; tex
   background-color: transparent;
   position: static;
   margin-top: 0px;
-  background-image: url('https://s3.amazonaws.com/jetstrap-site/images/builder/templates/cta_image3.jpg');
+  background-image: url('/assets/hero-unit-background.jpg');
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
