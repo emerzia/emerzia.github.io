@@ -19,7 +19,7 @@
             <div class="span12">
                 <h2 >Pricing</h2>
                 <div class="media">
-                    After discussing your requirements, we can advise on the best solution for your role.
+                    After discussing your requirements, we can advise on the best solution for your purpose.
                     Installation usually commences within one working day of payment and access to your server(s).
                 </div>
             </div>
@@ -37,7 +37,7 @@
                     <div class="span4 price-box">
                         <h3>Metropolitan</h3>
                         <strong class="title-grey">Capacity :</strong>
-                        <strong class="title">1 million calls per hour</strong>
+                        <strong class="title">1 million calls per hour*</strong>
                         <ul class="list">
                             <li><strong>Comprehensive Training:</strong> Yes</li>
                             <li><strong>SSL Certificate:</strong> Yes</li>
@@ -54,7 +54,7 @@
                     <div class="span4 price-box">
                         <h3>Standard</h3>
                         <strong class="title-grey">Capacity :</strong>
-                        <strong class="title">100.000 calls per hour</strong>
+                        <strong class="title">100,000 calls per hour*</strong>
                         <ul class="list">
                             <li><strong>Comprehensive Training:</strong> Yes</li>
                             <li><strong>SSL Certificate:</strong> No</li>
@@ -71,7 +71,7 @@
                     <div class="span4 price-box">
                         <h3>Lite</h3>
                         <strong class="title-grey">Capacity :</strong>
-                        <strong class="title">5.000 calls per hour</strong>
+                        <strong class="title">5000 calls per hour*</strong>
                         <ul class="list">
                             <li><strong>Comprehensive Training:</strong> Yes</li>
                             <li><strong>SSL Certificate:</strong> No</li>
@@ -96,7 +96,7 @@
                 <h2 >Emerzia Metropolitan</h2>
                 <br/>
 
-                High capacity, high speed Emerzia system deployed on multiple servers with AMD, Performance Tuning, SMS capability, Signup Page, Training, Ongoing Support.
+                High capacity, high speed Emerzia system deployed on multiple servers with AMD, performance tuning, SMS capability, signup page, training, ongoing support.
 
                 <br/><br/>
 
@@ -132,11 +132,15 @@
             <div class="span12">
                 <h2 >Emerzia Standard</h2>
                 <br/>
-                Deployment of Emerzia, AMD, Performance Tuning, SMS capability, Signup Page, Training, Ongoing Support, Minimum server requirements, mid or high range server class processors, dual power supplies, good IO suggesting RAID 5 or         better, 32Gb of RAM.
+                Deployment of Emerzia, AMD, performance tuning, SMS capability, signup page, training, ongoing support.
 
                 <br/><br/>
 
-                *Suitable for Towns, Rural Counties, Large colleges and Universities with the potential to contact 100,000 people in one hour or less.
+                Minimum server requirements are mid or high range server class processors, dual power supplies, good IO suggesting RAID 5 or better and 32Gb of RAM.
+
+                <br/><br/>
+
+                *Suitable for towns, rural counties, large colleges and universities with the potential to contact 100,000 people in one hour or less.
 
             </div>
         </div>
@@ -162,11 +166,11 @@
             <div class="span12">
                 <h2 >Emerzia Lite</h2>
                 <br/>
-                Deployment of Emerzia with Sign-up screen, training, Deployment support for the first month, Optional support contract.
+                Deployment of Emerzia with sign-up screen, training, deployment support for the first month, optional support contract.
 
                 <br/><br/>
 
-                Minimum server requirements, budget or mid-range server class system, 4Gb of RAM or better.
+                Minimum server requirements are budget or mid-range server class system with 4Gb of RAM or better.
 
                 <br/><br/>
 

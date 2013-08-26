@@ -61,7 +61,7 @@
                         <div class="container">
                             <div class="carousel-caption">
                                 <h1>Mass emergency broadcasting.</h1>
-                                <p class="lead">A single server Emerzia system was provided to a local government for emergency and community notifications, coupled with contact verification.</p>
+                                <p class="lead">Broadcast emergency and communication messages via phone and SMS to warn of events such as weather warnings through to school and road closures.</p>
                                 <a class="lead pull-right" href="#">Read more about our solutions »</a>
                             </div>
                         </div>
@@ -98,8 +98,8 @@
                     <img src="assets/glyphicons/glyphicons_043_group@2x.png" alt="Reversopm Phone Emergency" width="40">
                     <h3 class="tile-title">LOCAL GOVERNMENT</h3>
                     <p class="alignleft">
-                    A single server Emerzia system was provided to a local government for
-                    emergency and community notifications, coupled with contact verification.
+                    A single server Emerzia system deployed in local government for emergency and community notifications,
+                    coupled with contact verification.
                     <br/>
                 </div>
             </div>

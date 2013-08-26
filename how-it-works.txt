@@ -20,11 +20,11 @@
             <div class="span12">
                 <h2>How it works</h2>
                 <div class="media">
-                    The messages can be an emergency notice, crime prevention messages, a request for information via the IVR menu, or simply an advisory notice, e.g. school closure or road closure.
+                    The messages can be an emergency notice, crime prevention message, a request for information via the IVR menu, or simply an advisory notice e.g. school closure or road closure.
 
                     <br><br>
 
-                    Contacts can use the supplied sign-up page to sign up to emergency alerts.
+                    Contacts can use the supplied sign-up page to register for emergency alerts.
 
                     <br><br>
 
@@ -46,19 +46,19 @@
 
                     <br><br>
 
-                    Once the Emerzia system is deployed, the operator accesses the web interface, and configures the voice broadcast message flow using either pre-recorded sound prompts, or text to speech.
+                    Once the Emerzia system is deployed, the operator accesses the web interface and configures the voice broadcast message flow using either pre-recorded sound prompts or text to speech.
 
                     <br><br>
 
-                    The operator either uploads or selects phonebooks containing all the numbers to be called.
+                    The operator uploads all the numbers to be called into specific phonebooks.
 
                     <br><br>
 
-                    The campaign is then created with the desired phonebooks and voice broadcast messages, and started.
+                    The campaign is created with the desired phonebooks and voice broadcast messages, then started.
 
                     <br><br>
 
-                    Calls are then delivered to the contacts. During our tests on a mid cification server, we were able to deliver 1 million calls in just under 5 hours. If ater capacity is required, then multiple servers can be used.
+                    Calls are delivered to the contacts. During our tests on a mid-specification server, we were able to deliver 1 million calls in just under 5 hours. If greater capacity is required, then multiple servers can be used.
 
                     <br><br>
 

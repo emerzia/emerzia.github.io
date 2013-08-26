@@ -13,11 +13,11 @@
     <div class="container">
         <div class="row-fluid">
             <div class="span12">
-                <h2 class="tile-title">What is Reverse Emergency Dialering?</h2>
+                <h2 class="tile-title">What is Reverse Emergency Dialing?</h2>
                 <p class="alignleft">
-                    Reverse emergency dialling using an auto-dialer, automatically calls thousands of numbers from a phone list or database.
+                    Reverse emergency dialing using an auto-dialer, automatically calls thousands of numbers from a phone list or database.
                     <br/><br/>
-                    Once the call has been answered, the autodialer either plays a recorded message or connects the call to a live person. Emerzia has a "Live Person Confirmation" feature allowing the contact to indicate that they have heard and understood the message by pressing a button on their handset. This data recorded in the comprehensive reporting system.
+                    Once the call has been answered, the autodialer either plays a recorded message or connects the call to a live person. Emerzia has a "Live Person Confirmation" feature allowing the contact to indicate that they have heard and understood the message by pressing a button on their handset. This data is recorded in the comprehensive reporting system.
                 </p>
                 <br/>
             </div>
@@ -74,7 +74,7 @@
             <div class="span6">
                 <h3 class="tile-title">VOICEMAIL DETECTION</h3>
                 <p class="alignleft">
-                    Voicemail Detection enhances the system by allowing to detect the call has been answered by voicemail, and leave a different message, or simply hangup.
+                    Voicemail Detection enhances the Emerzia system by detecting if the call has been answered by voicemail, and leave a different message, or simply hang-up.
                 </p>
             </div>
         </div>
@@ -85,8 +85,7 @@
             <div class="span6">
                 <h3 class="tile-title">REALTIME REPORTING</h3>
                 <p class="alignleft">
-                    Capacity monitoring and other key performance indicators are reported in realtime, with downloadable reports and drill-down to individual survey
-                    results.
+                    Capacity monitoring and other key performance indicators are reported in realtime, with downloadable reports and enabling drill-down to individual survey results.
                 </p>
             </div>
             <div class="span6 center-in-span">
@@ -103,7 +102,7 @@
             <div class="span6">
                 <h3 class="tile-title">SCALABLE / HIGH AVAILABILITY</h3>
                 <p class="alignleft">
-                    Multi-server systems can be clustered to create a highly fault tolerant and scalable system.
+                    Multiple servers can be clustered to create a highly fault tolerant and scalable system.
                 </p>
             </div>
         </div>
@@ -131,7 +130,7 @@
             <div class="span6">
                 <h3 class="tile-title">USER FRIENDLY</h3>
                 <p class="alignleft">
-                    Intuitive web interface based customer and management interfaces requiring minimal operator training.
+                    Intuitive web-based customer and management interfaces requiring minimal operator training.
                 </p>
             </div>
         </div>
@@ -142,7 +141,7 @@
             <div class="span6">
                 <h3 class="tile-title">API INTEGRATION</h3>
                 <p class="alignleft">
-                    API's have been written to allow straightforward integration with third party applications.
+                    Numerous API's are available to allow straightforward integration with third party applications.
                 </p>
             </div>
             <div class="span6 center-in-span">
@@ -170,7 +169,7 @@
             <div class="span6">
                 <h3 class="tile-title">CONTACT ACQUISITION</h3>
                 <p class="alignleft">
-                    A sign up page is provided to allow the community to register their phone details online with Emerzia and select which sort of alerts they want, for instance school closures through to distaster and evacuation alerts such as bush-fires.
+                    A sign up page is provided to allow the community to register their phone details online with Emerzia and select which type of alerts they want, for instance school closures through to disaster and evacuation alerts.
                 </p>
             </div>
             <div class="span6 center-in-span">

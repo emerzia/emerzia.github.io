@@ -15,6 +15,7 @@
     </div>
 
     <div class="container">
+
         <div class="row-fluid">
             <div class="span12">
                 <div class="media">
@@ -34,13 +35,11 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="media">
-                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Telemarketing"/>
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="SMS Broadcasting"/>
                     <div class="media-body">
-                        <h3 class="media-heading">Telemarketing</h3>
+                        <h3 class="media-heading">SMS Broadcasting</h3>
                         <div class="media">
-                            Broadcast marketing or informational messages to customers and clients. Within the interface of Emerzia, a message recorded, or text to speech can be used, the IVR is configured, e.g. if a response is required via a touch tone phone, a phone book containing the contacts to be called is selected, and a campaign launched.
-                            <br/><br/>
-                            Emerzia comes with numerous API, so that Emerzia can be integrated with, and controlled by third party applications
+                            SMS Messaging to send text messages to mobile devices containing marketing, informational and warning messages.
                         </div>
                     </div>
                 </div>
@@ -70,6 +69,22 @@
         <div class="row-fluid">
             <div class="span12">
                 <div class="media">
+                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Outbound Call Conferencing" />
+                    <div class="media-body">
+                        <h3 class="media-heading">Outbound Call Conferencing</h3>
+                        <div class="media">
+                            Conferencing using outbound calling to initiate a conference to participants at a pre-arranged time.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <hr/>
+
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="media">
                     <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Payment Reminders & Debt Control"/>
                     <div class="media-body">
                         <h3 class="media-heading">Payment Reminders & Debt Control</h3>
@@ -90,9 +105,9 @@
                 <div class="media">
                     <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Live Lead Generation"/>
                     <div class="media-body">
-                        <h3 class="media-heading">Live Lead Generation</h3>
+                        <h3 class="media-heading">Live Lead Generation & Telemarketing.</h3>
                         <div class="media">
-                            Live lead generation using “Press One” campaigns are widely viewed as very effective marketing and sales tool. A contact list is uploaded, and a campaign configured to call the list with a short introductory message to the product in question, followed by “To talk to a live person, press one now” Emerzia will then bridge or live-transfer the call to one of your sales agents via your IP-PBX.
+                            Telemarketing and “Press One” campaigns are viewed as effective sales and marketing tools. A contact list is uploaded, and a campaign configured to call the list with a short introductory message to the product or service in question, followed by “To talk to a live person, press one now” Emerzia will then bridge or live-transfer the call to one of your sales agents via your IP-PBX.
                         </div>
                     </div>
                 </div>
@@ -101,38 +116,6 @@
 
         <hr>
 
-        <div class="row-fluid">
-            <div class="span12">
-                <div class="media">
-                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="SMS Broadcasting"/>
-                    <div class="media-body">
-                        <h3 class="media-heading">SMS Broadcasting</h3>
-                        <div class="media">
-                            SMS Messaging to send text messages to mobile devices containing marketing, informational and warning messages.
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <hr>
-
-        <div class="row-fluid">
-            <div class="span12">
-                <div class="media">
-                    <img class="media-object pull-left" src="assets/images/icons/Retina-Ready@2x.png" width="50" alt="Outbound Call Conferencing" />
-                    <div class="media-body">
-                        <h3 class="media-heading">Outbound Call Conferencing</h3>
-                        <div class="media">
-                            Conferencing using outbound calling to initiate a conference to participants at a pre-arranged time.
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-        <hr/>
         <div class="row-fluid">
             <div class="span4 offset4">
                 <a class="btn btn-large btn-info center-in-span" href="demo.html">Schedule a demo today</a>
@@ -146,7 +129,7 @@
                 <div class="media">
                     Emerzia comes with API for every function on the web interface to allow straightforward implementation with other third party applications.
                     <br/><br/>
-                    If there are features and functions that are required, but not present in Emerzia, then can quote to develop them. The Emerzia team can also assist your own programming team to integrate third party applications.
+                    If there are features and functions that are required, but not present in Emerzia, then we can quote to develop them. The Emerzia team can also assist your own programming team to integrate third party applications.
                 </div>
             </div>
         </div>

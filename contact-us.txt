@@ -12,9 +12,7 @@
         <div class="container">
             <h1>Contact Us</h1>
             <p class="lead">
-                Star2Billing S.L. specialises in commercial and open source telephony solutions.
-                <br/>
-                Emerzia is created by Star2Billing. Our mission is to continue provide high quality and innovative telephony software solutions.
+                Emerzia was created by Star2Billing. Our mission is to provide high quality and innovative telephony software solutions.
             </p>
         </div>
     </div>
@@ -28,7 +26,7 @@
                     <div class="media-body">
                         <h3 class="media-heading">Contact Us</h3>
                         <div class="media">
-                            Contact us via email for to arrange a demo, or for sales, support and development at <a href="mailto:hello@emerzia.com">hello@emerzia.com</a>
+                            Contact us via email to arrange a demo or for sales, support and development at <a href="mailto:hello@emerzia.com">hello@emerzia.com</a>
                         </div>
                     </div>
                 </div>
@@ -39,7 +37,7 @@
                     <div class="media-body">
                         <h3 class="media-heading">Purchase Emerzia</h3>
                         <div class="media">
-                            See <a href="princing.html">pricing</a> of Emerzia, and contact us for a demo and sales and support.
+                            See <a href="pricing.html">pricing</a> of Emerzia, or contact us to discuss your specific requirements.
                         </div>
                     </div>
                 </div>
@@ -96,7 +94,7 @@
                 </div>
             </div>
             <div class="span4">
-            <a class="btn btn-large btn-warning center-in-span" href="about.html">Find more about Star2Billing</a>
+            <a class="btn btn-large btn-warning center-in-span" href="about.html">Find out about Star2Billing S.L.</a>
             </div>
         </div>
 

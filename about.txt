@@ -26,7 +26,7 @@
                     <br/><br/>
                     Emerzia benefits from the free and open source Newfies-Dialer platform, in that our community thoroughly tests Newfies-Dialer. Once tested, the new features are implemented in Emerzia, secure in the knowledge that the these features will add extra functionality without jeopardising stability.
                     <br/><br/>
-                    The core of Emerzia is offered under the same licence of Newfies-Dialer.
+                    The core of Emerzia is offered under the same MPL2 licence as Newfies-Dialer.
 
                     <br><br>
 
@@ -49,7 +49,7 @@
                     The company has grown rapidly as it has created new products such as CDR-Stats and Newfies-Dialer, and continues to develop its original product, A2Billing, which has been available for nearly 10 years.
 
                     <br/><br/>
-                    The principals of Star2Billing have decades of commercial experience in telecoms and telecoms software development.
+                    The Principals of Star2Billing have decades of commercial experience in telecoms and telecoms software development.
 
                     <br><br>
 
