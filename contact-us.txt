@@ -1,10 +1,8 @@
 .. title: Contact Us
-.. subtitle: Star2Billing S.L. specialises in commercial and open source telephony solutions.<br/>Emerzia is created by Star2Billing. Our mission is to continue provide high quality and innovative telephony software solutions.
 .. slug: contact-us
 .. date: 2013/08/18 13:50:00
-.. tags:
-.. link:
-.. description:
+.. tags: contact
+.. description: Emerzia is created by Star2Billing. Our mission is to continue provide high quality and innovative telephony software solutions.
 
 .. raw:: html
 

@@ -1,6 +1,6 @@
 .. link:
-.. description:
-.. tags:
+.. description: The Emerzia platform can be deployed as a single server or for high capacity environments, deployed across multiple servers.
+.. tags: emergency, broadcasting
 .. date: 2013/08/09 19:33:46
 .. title: emergency broadcasting
 .. slug: emergency-broadcasting

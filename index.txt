@@ -1,12 +1,14 @@
+.. date: 2012/03/30 23:00
+.. tags: emergency, notification, telephone broadcasting
+.. description: The Emerzia Emergency telephone broadcasting system can make millions of calls in a few hours making it a versatile and effective way of notifying people about emergency situations.
+
 .. raw:: html
 
     <div class="hero-unit">
         <div class="container">
             <h1>Emerzia - Emergency Notification System</h1>
             <p class="lead">
-                The Emerzia Emergency telephone broadcasting system can
-                make millions of calls in a few hours making it a versatile and
-                effective way of notifying people about emergency situations.
+                The Emerzia Emergency telephone broadcasting system can make millions of calls in a few hours making it a versatile and effective way of notifying people about emergency situations.
             </p>
 
             <div class="row-fluid">
@@ -62,7 +64,7 @@
                             <div class="carousel-caption">
                                 <h1>Mass emergency broadcasting.</h1>
                                 <p class="lead">Broadcast emergency and communication messages via phone and SMS to warn of events such as weather warnings through to school and road closures.</p>
-                                <a class="lead pull-right" href="#">Read more about our solutions »</a>
+                                <a class="lead pull-right" href="./solutions.html">Read more about our solutions »</a>
                             </div>
                         </div>
                     </div>
@@ -71,7 +73,7 @@
                             <div class="carousel-caption">
                                 <h1>Phone Polling, Surveys & Voting.</h1>
                                 <p class="lead">Ring large numbers of people and present IVR options for either polling their opinions, interactive surveys, or taking their vote and record the results.</p>
-                                <a class="lead pull-right" href="#">Read more about our solutions »</a>
+                                <a class="lead pull-right" href="./solutions.html">Read more about our solutions »</a>
                             </div>
                         </div>
                     </div>
@@ -95,7 +97,7 @@
         <div class="row demo-tiles">
             <div class="span6">
                 <div class="tile">
-                    <img src="assets/glyphicons/glyphicons_043_group@2x.png" alt="Reversopm Phone Emergency" width="40">
+                    <img src="assets/glyphicons/glyphicons_043_group@2x.png" alt="Phone Emergency System" width="40">
                     <h3 class="tile-title">LOCAL GOVERNMENT</h3>
                     <p class="alignleft">
                     A single server Emerzia system deployed in local government for emergency and community notifications,
@@ -106,7 +108,7 @@
 
             <div class="span6">
                 <div class="tile">
-                    <img src="assets/glyphicons/glyphicons_032_wifi_alt@2x.png" alt="Reversopm Phone Emergency" width="40" />
+                    <img src="assets/glyphicons/glyphicons_351_book_open@2x.png" alt="Reverse Phone Emergency" width="40" />
                     <h3 class="tile-title">UNIVERSITY CAMPUS</h3>
                     <p class="alignleft">
                     Multi-Server Emerzia system provided to a large educational establishment
@@ -117,7 +119,7 @@
 
         <div class="row-fluid">
             <div class="span6 offset3">
-                <a class="btn btn-primary btn-large center-in-span" href="/user_case.html">Read more about our User Cases »</a>
+                <a class="btn btn-primary btn-large center-in-span" href="/user-cases.html">Read more about our User Cases »</a>
             </div>
         </div>
 

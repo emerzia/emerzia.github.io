@@ -1,3 +1,9 @@
+.. title: Contact installtion
+.. slug: contact-installation
+.. date: 2012/03/30 23:00
+.. tags: installation, contact, emergency calling system
+.. description: Contact us to discuss your requirements and order a Emerzia installation.
+
 .. raw:: html
 
     <div class="hero-unit">

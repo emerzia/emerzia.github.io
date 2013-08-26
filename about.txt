@@ -1,3 +1,9 @@
+.. title: About
+.. slug: about
+.. date: 2012/03/30 23:00
+.. tags: about, newfies-dialer, star2billing
+.. description: Emerzia is a reverse emergency notification system to broadcast messages via voice or SMS to large numbers or people in a short space of time.
+
 .. raw:: html
 
     <div class="hero-unit">

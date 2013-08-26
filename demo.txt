@@ -1,3 +1,9 @@
+.. title: Demo
+.. slug: demo
+.. date: 2012/03/30 23:00
+.. tags: demo, installation, voice broadcasting
+.. description: Contact us to request a demo and discuss your requirements
+
 .. raw:: html
 
     <div class="hero-unit">

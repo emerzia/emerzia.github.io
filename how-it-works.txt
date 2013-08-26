@@ -1,3 +1,10 @@
+.. title: How it works
+.. slug: how-it-works
+.. date: 2012/03/30 23:00
+.. tags: emerzia, how it works
+.. link: http://www.emerzia.com
+.. description: Emerzia is a reverse emergency notification system to broadcast messages via voice or SMS to large numbers or people in a short space of time.
+
 .. raw:: html
 
     <div class="hero-unit">

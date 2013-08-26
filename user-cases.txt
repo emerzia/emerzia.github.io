@@ -1,3 +1,10 @@
+.. title: User cases
+.. slug: user-cases
+.. date: 2012/03/30 23:00
+.. tags: user cases, voice emergency broadcasting
+.. link: http://www.emerzia.com
+.. description: A local government wished to replace their ageing 24 port analogue auto-dialer with a higher capacity system with a lower cost of ownership.
+
 .. raw:: html
 
     <div class="hero-unit">

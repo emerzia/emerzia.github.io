@@ -1,3 +1,10 @@
+.. title: Solutions
+.. slug: solutions
+.. date: 2012/03/30 23:00
+.. tags: emergency solution, voice broadcasting solution
+.. link: http://www.emerzia.com
+.. description: Emerzia is a versatile platform, and can be used not only for reverse emergency broadcasting, but also in a variety of other roles including telemarketing, live lead generation and conferencing.
+
 .. raw:: html
 
     <div class="hero-unit">

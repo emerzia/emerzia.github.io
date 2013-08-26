@@ -1,3 +1,9 @@
+.. title: Features
+.. slug: features
+.. date: 2012/03/30 23:00
+.. tags: features, emergency system
+.. description: List of features offered by Emerzia, Emergency Notification System.
+
 .. raw:: html
 
     <div class="hero-unit">

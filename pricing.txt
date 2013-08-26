@@ -1,3 +1,9 @@
+.. title: Pricing
+.. slug: pricing
+.. date: 2012/03/30 23:00
+.. tags: pricing, purchase Emerzia
+.. description: The Emerzia platform can be deployed as a single server or for high capacity environments, deployed across multiple servers.
+
 .. raw:: html
 
     <div class="hero-unit">
@@ -19,8 +25,7 @@
             <div class="span12">
                 <h2 >Pricing</h2>
                 <div class="media">
-                    After discussing your requirements, we can advise on the best solution for your purpose.
-                    Installation usually commences within one working day of payment and access to your server(s).
+                    After discussing your requirements, we can advise on the best solution for your purpose. Installation usually commences within one working day of payment and access to your server(s).
                 </div>
             </div>
         </div>
