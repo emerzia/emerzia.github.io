@@ -97,7 +97,7 @@
         <div class="row demo-tiles">
             <div class="span6">
                 <div class="tile">
-                    <img src="assets/glyphicons/glyphicons_043_group@2x.png" alt="Phone Emergency System" width="40">
+                    <img src="assets/glyphicons/glyphicons_043_group@2x.png" alt="Phone Emergency System" height="37">
                     <h3 class="tile-title">LOCAL GOVERNMENT</h3>
                     <p class="alignleft">
                     A single server Emerzia system deployed in local government for emergency and community notifications,
@@ -108,7 +108,7 @@
 
             <div class="span6">
                 <div class="tile">
-                    <img src="assets/glyphicons/glyphicons_351_book_open@2x.png" alt="Reverse Phone Emergency" width="40" />
+                    <img src="assets/glyphicons/glyphicons_351_book_open@2x.png" alt="Reverse Phone Emergency" height="37" />
                     <h3 class="tile-title">UNIVERSITY CAMPUS</h3>
                     <p class="alignleft">
                     Multi-Server Emerzia system provided to a large educational establishment
