@@ -20,8 +20,13 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://www.emerzia.com/about.html</loc>
+  <loc>http://www.emerzia.com/N90zaB6VSfrRQEDeaANsNOlqgFA.html</loc>
   <lastmod>2013-08-26</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.emerzia.com/about.html</loc>
+  <lastmod>2013-08-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -46,7 +51,7 @@
  </url>
  <url>
   <loc>http://www.emerzia.com/categories/index.html</loc>
-  <lastmod>2013-08-26</lastmod>
+  <lastmod>2013-08-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -161,12 +166,12 @@
  </url>
  <url>
   <loc>http://www.emerzia.com/stories/index.html</loc>
-  <lastmod>2013-08-26</lastmod>
+  <lastmod>2013-08-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://www.emerzia.com/user-cases.html</loc>
-  <lastmod>2013-08-26</lastmod>
+  <lastmod>2013-08-27</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
