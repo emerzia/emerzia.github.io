@@ -14,6 +14,11 @@ div.row-fluid [class*="span"] .center-in-span { float: none; margin: 0 auto; tex
   color: #16a085;
 }
 
+.pricing-item {
+  color: #16a085;
+  font-weight: bold;
+}
+
 .media-heading {
   font-weight: bold;
 }

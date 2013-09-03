@@ -44,41 +44,41 @@
                         <strong class="title-grey">Capacity :</strong>
                         <strong class="title">1 million calls per hour*</strong>
                         <ul class="list">
-                            <li><strong>Comprehensive Training:</strong> Yes</li>
-                            <li><strong>SSL Certificate:</strong> Yes</li>
-                            <li><strong>Support:</strong> Yes</li>
-                            <li><strong>Upgrades:</strong> Yes</li>
-                            <li><strong>Remote backup:</strong> Yes</li>
+                            <li><strong>Comprehensive Training:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>SSL Certificate:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Support:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Upgrades:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Remote backup:</strong> <span class="pricing-item">Yes</span></li>
                             <li><strong>Support availability:</strong><br/> 5/7 days-12/24 hrs</li>
                         </ul>
                         <strong class="title-grey">Cost (Installation & Training):</strong>
                         <strong class="title">POA</strong>
 
-                        <a href="contact-installation.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>POA</a>
+                        <a href="contact-installation-metropolitan.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>POA</a>
                     </div>
                     <div class="span4 price-box">
                         <h3>Standard</h3>
                         <strong class="title-grey">Capacity :</strong>
                         <strong class="title">100,000 calls per hour*</strong>
                         <ul class="list">
-                            <li><strong>Comprehensive Training:</strong> Yes</li>
+                            <li><strong>Comprehensive Training:</strong> <span class="pricing-item">Yes</span></li>
                             <li><strong>SSL Certificate:</strong> No</li>
-                            <li><strong>Support:</strong> Yes</li>
-                            <li><strong>Upgrades:</strong> Yes</li>
+                            <li><strong>Support:</strong> <span class="pricing-item">Yes</span></li>
+                            <li><strong>Upgrades:</strong> <span class="pricing-item">Yes</span></li>
                             <li><strong>Remote backup:</strong> No</li>
                             <li><strong>Support availability:</strong><br/> 5/7 days-12/24 hrs</li>
                         </ul>
                         <strong class="title-grey">Cost (Installation & Training):</strong>
                         <strong class="title">$9000 USD</strong>
 
-                        <a href="contact-installation.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>$500 / month</a>
+                        <a href="contact-installation-standard.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>$500 / month</a>
                     </div>
                     <div class="span4 price-box">
                         <h3>Lite</h3>
                         <strong class="title-grey">Capacity :</strong>
                         <strong class="title">5000 calls per hour*</strong>
                         <ul class="list">
-                            <li><strong>Comprehensive Training:</strong> Yes</li>
+                            <li><strong>Comprehensive Training:</strong> <span class="pricing-item">Yes</span></li>
                             <li><strong>SSL Certificate:</strong> No</li>
                             <li><strong>Support:</strong> Not included</li>
                             <li><strong>Upgrades:</strong> No</li>
@@ -88,7 +88,7 @@
                         <strong class="title-grey">Cost (Installation & Training):</strong>
                         <strong class="title">$4000 USD</strong>
 
-                        <a href="contact-installation.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>Free</a>
+                        <a href="contact-installation-lite.html" class="btn btn-large btn-warning center-in-span">Licensing Cost : <br/>Free</a>
                     </div>
                 </div>
             </div>
@@ -127,7 +127,7 @@
             </div>
             <div class="span6">
                 <br/>
-                <a class="btn btn-large btn-info center-in-span" href="contact-installation.html">Contact us to arrange an installation</a>
+                <a class="btn btn-large btn-info center-in-span" href="contact-installation-metropolitan.html">Contact us to arrange an installation</a>
             </div>
         </div>
 
@@ -161,7 +161,7 @@
             </div>
             <div class="span6">
                 <br/>
-                <a class="btn btn-large btn-info center-in-span" href="contact-installation.html">Contact us to arrange an installation</a>
+                <a class="btn btn-large btn-info center-in-span" href="contact-installation-standard.html">Contact us to arrange an installation</a>
             </div>
         </div>
 
@@ -194,7 +194,7 @@
             </div>
             <div class="span6">
                 <br/>
-                <a class="btn btn-large btn-info center-in-span" href="contact-installation.html">Contact us to arrange an installation</a>
+                <a class="btn btn-large btn-info center-in-span" href="contact-installation-lite.html">Contact us to arrange an installation</a>
             </div>
         </div>
 

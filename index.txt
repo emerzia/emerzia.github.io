@@ -1,5 +1,6 @@
 .. date: 2012/03/30 23:00
 .. tags: emergency, notification, telephone broadcasting
+.. title: Emergency Notification System
 .. description: The Emerzia Emergency telephone broadcasting system can make millions of calls in a few hours making it a versatile and effective way of notifying people about emergency situations.
 
 .. raw:: html
