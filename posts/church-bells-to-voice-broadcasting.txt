@@ -1,4 +1,4 @@
-.. link:
+.. link: http://www.emerzia.com
 .. description: The concept of an emergency broadcasting system has been around for hundreds of years
 .. tags: voice broadcasting, emergency, broadcasting
 .. date: 2013/08/06 13:45:04
