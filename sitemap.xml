@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.emerzia.com/</loc>
-  <lastmod>2013-09-09</lastmod>
+  <lastmod>2013-10-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -17,6 +17,11 @@
  <url>
   <loc>http://www.emerzia.com/2013/index.html</loc>
   <lastmod>2013-09-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://www.emerzia.com/404.html</loc>
+  <lastmod>2013-10-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
