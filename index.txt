@@ -33,7 +33,7 @@
         <div class="row demo-tiles">
             <div class="span6">
                 <div class="tile tile-hot">
-                    <img src="assets/images/icons/Retina-Ready@2x.png" alt="Reversopm Phone Emergency" class="tile-image big-illustration">
+                    <img src="assets/images/icons/Retina-Ready@2x.png" alt="Reverse Phone Emergency" class="tile-image big-illustration">
                     <h3 class="tile-title">Emergency Broadcasting</h3>
                     <p class="tile-item">
                     <span class="icons"><span class="second-icon fui-check"></span></span> Evacuation Notification<br/>

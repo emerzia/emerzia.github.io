@@ -1,18 +1,59 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="description" content="Emerzia - Emerzia is a reverse emergency notification system to broadcast messages via Voice and SMS"><meta name="author" content="Emerzia"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Emerzia | Emerzia</title><!-- Le styles --><link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css"><link href="../assets/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css"><!-- Loading Flat UI --><link href="../assets/css/flat-ui.css" rel="stylesheet" type="text/css"><link href="../assets/css/custom.css" rel="stylesheet" type="text/css"><!-- Le HTML5 shim, for IE6-8 support of HTML5 elements --><!--[if lt IE 9]>
+<!DOCTYPE html><html lang="en">
+<head>
+    
+    <meta charset="utf-8">
+    <meta name="description" content="Emerzia is a reverse emergency notification system to broadcast messages via Voice and SMS">
+    <meta name="author" content="Emerzia">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Emerzia | Emerzia</title>
+
+    <!-- Le styles -->
+    <link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <link href="../assets/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Loading Flat UI -->
+    <link href="../assets/css/flat-ui.css" rel="stylesheet" type="text/css">
+
+    <link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
       </script>
-    <![endif]--><!-- Le fav and touch icons --><link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png" type="image/png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png" type="image/png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png" type="image/png"><link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png" type="image/png"><style type="text/css">
+    <![endif]-->
+    <!-- Le fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png" type="image/png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png" type="image/png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png" type="image/png">
+    <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png" type="image/png">
+    <style type="text/css">
         .contact-button {
             height:27px;
             display:inline-block;
         }
-    </style><script src="assets/js/jquery-1.8.3.min.js"></script><script src="assets/js/bootstrap.min.js"></script><script type="text/javascript">
+    </style>
+    <script src="assets/js/jquery-1.8.3.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
         $(document).ready(function() {
             $('.carousel').carousel({
                 interval: 5000
             })
         });
-    </script><link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../rss.xml"><link rel="icon" href="assets/favicon.ico" sizes="16x16"></head><body>
+    </script>
+    
+
+            <link rel="alternate" type="application/rss+xml" title="RSS (en)" href="../rss.xml">
+            <link rel="icon" href="assets/favicon.ico" sizes="16x16">
+
+    
+    
+    
+</head>
+<body>
     <div class="navbar-wrapper">
         <div class="container">
             <div class="navbar navbar-inverse">
@@ -24,7 +65,9 @@
                     </button>
 
                     <div class="nav-collapse collapse">
-                        <ul class="nav"><li><a href="../index.html">EMERZIA</a>
+                        <ul class="nav">
+                            
+            <li><a href="../index.html">EMERZIA</a>
             </li><li><a href="../solutions.html">Solutions</a>
             </li><li><a href="../user-cases.html">User Cases</a>
             </li><li><a href="../features.html">Features</a>
@@ -34,7 +77,8 @@
             </li><li><a href="../contact-us.html">Contact Us</a>
 
                             </li><li>
-                        </ul></div>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
@@ -50,31 +94,72 @@
         </div>
     </div>
     <div class="container">
-        <h1><a href="../posts/church-bells-to-voice-broadcasting.html">Church Bells to Voice Broadcasting</a>
+        <h1><a href="../posts/emerzia-screencast.html">Emerzia screencast</a>
+        <small>  
+             Posted: 2014-02-28 18:45
+        </small></h1>
+        <hr>
+        <div><p>We've provided a brief screencast to show how Emerzia can be used to warn people of an emergency by
+sending out a voice broadcast message.</p>
+<iframe width="853" height="480" src="//www.youtube.com/embed/h96KpkJL42I" frameborder="0" allowfullscreen></iframe><br><p>The scenario is that there is a fire in the fictional suburb in Faytown called Fayfall, and Faytown's
+emergency emergency response unit wishes to send out a voice broadcast to all 486 residents of the
+Fayfall suburb telling them that there is a fire, to stay indoors and await further instructions.</p>
+<p>The voice broadcast will ask the residents to confirm that they have heard the message and will give
+an option to repeat the message.</p>
+<p>A three node IVR is quickly constructed consisting of:</p>
+<blockquote>
+<ul class="simple">
+<li>an introductory message stating where the call is from,</li>
+<li>a warning message with options to confirm receipt or repeat the message,</li>
+<li>a confirmation that the message has ended, followed by hanging up the call.</li>
+</ul>
+</blockquote>
+<p>If there is no key response from the contact confirming receipt, e.g. if the call has gone to voicemail,
+the message will be played three times. Emerzia can be configured to retry the call later.</p>
+<p>Next, the emergency campaign is created and the phonebook containing the telephone numbers of the Fayfall
+suburb is selected. The emergency message is then launched. All 486 people will be called in a
+couple of minutes.</p>
+<p>Statistics on the emergency message can be monitored as it progresses via the dashboard, and more detailed
+reports can be exported for later analysis.</p>
+<p>If you have any questions about Emerzia or if you want to deploy Emerzia to provide Voice and SMS emergency
+broadcasting, please contact us via email at <a class="reference external" href="mailto:hello@emerzia.com">hello@emerzia.com</a>.</p></div>
+            
+    <p>
+        <a href="../posts/emerzia-screencast.html#disqus_thread" data-disqus-identifier="cache/posts/emerzia-screencast.html">Comments</a>
+
+
+        </p><h1><a href="../posts/church-bells-to-voice-broadcasting.html">Church Bells to Voice Broadcasting</a>
         <small>  
              Posted: 2013-08-06 13:45
         </small></h1>
-        <hr><p>The concept of an <strong>emergency broadcasting system</strong> has been around for hundreds of years. In years gone by, the local church bell would be tolled to warn of invasion and other emergencies and beacon fires would be lit to spread the message further.</p>
+        <hr>
+        <div><p>The concept of an <strong>emergency broadcasting system</strong> has been around for hundreds of years. In years gone by, the local church bell would be tolled to warn of invasion and other emergencies and beacon fires would be lit to spread the message further.</p>
 <p>Latterly, sirens are used, notably during war to warn of air raids, and famously, the “Four Minute Warning” to warn of an impending nuclear attack, and all are familiar with the concept of fire-alarms in buildings.</p>
 <p>However effective these methods may be, one of drawbacks of this kind of warning is that it cannot indicate the nature of the hazard or how to react.</p>
 <p>The modern approach of using <strong>reverse emergency voice broadcasting</strong> can supplement the traditional warning methods by indicating the nature of the problem and how best to react. Psychologically, people often want confirmation of a problem before they accept there is an emergency and, given that most people carry a mobile phone, voice broadcasting can be very effective in getting the message out.</p>
-<p>Emerzia can play a valuable role in <strong>mass emergency warning</strong> and <strong>broadcasting contingency</strong> plans both in densely populated urban areas and small community and campus systems.</p>
+<p>Emerzia can play a valuable role in <strong>mass emergency warning</strong> and <strong>broadcasting contingency</strong> plans both in densely populated urban areas and small community and campus systems.</p></div>
             
     <p>
-        <a href="../posts/church-bells-to-voice-broadcasting.html#disqus_thread" data-disqus-identifier="cache/posts/the-world-is-my-house.html">Comments</a>
+        <a href="../posts/church-bells-to-voice-broadcasting.html#disqus_thread" data-disqus-identifier="cache/posts/church-bells-to-voice-broadcasting.html">Comments</a>
 
 
     
 </p><div>
-<ul class="pager"></ul></div>
+<ul class="pager">
+</ul>
+</div>
 
     
-       <script type="text/javascript">var disqus_shortname="emerzia";(function(){var a=document.createElement("script");a.async=true;a.type="text/javascript";a.src="http://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("HEAD")[0]||document.getElementsByTagName("BODY")[0]).appendChild(a)}());</script></div>
+       <script type="text/javascript">var disqus_shortname="emerzia";(function(){var a=document.createElement("script");a.async=true;a.type="text/javascript";a.src="http://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("HEAD")[0]||document.getElementsByTagName("BODY")[0]).appendChild(a)}());</script>
 
-            <!--<small>Copyright &copy; 2013 Star2Billing S.L.. All Rights Reserved.</small>-->
+    </div>
+
+            <!--<small>Copyright &copy; 2014 Star2Billing S.L.. All Rights Reserved.</small>-->
 
 
-    <hr><footer><div class="container">
+    <hr>
+    <footer>
+        <div class="container">
             <div class="row">
                 <div class="span8">
                     <h3 class="footer-title">Contact us</h3>
@@ -97,29 +182,39 @@
                         </a>
                         <script>
                         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-                        </script></p>
+                        </script>
+                    </p>
 
                     <div class="createsend-button contact-button" data-listid="r/95/D77/F70/BE0C8F0AA9076CA7">
                     </div>
                     <script type="text/javascript">(function () { var e = document.createElement('script'); e.type = 'text/javascript'; e.async = true; e.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://btn.createsend1.com/js/sb.min.js?v=2'; e.className = 'createsend-script'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s); })();
-                    </script></div>
+                    </script>
+                </div>
             </div>
 
             <div class="row">
                 <div class="span12">
-                    <h4 class="footer-title text-center">Copyright © 2013 Star2Billing S.L.. All Rights Reserved.</h4>
+                    <h4 class="footer-title text-center">Copyright © 2014 Star2Billing S.L.. All Rights Reserved.</h4>
                 </div>
             </div>
 
         </div>
-    </footer><script>
+    </footer>
+
+    
+<script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-325034-19', 'emerzia.com');
   ga('send', 'pageview');
-</script><!-- AddThis Smart Layers BEGIN --><!-- Go to http://www.addthis.com/get/smart-layers to customize --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f2996314fcd3dfc"></script><script type="text/javascript">
+</script>
+
+<!-- AddThis Smart Layers BEGIN -->
+<!-- Go to http://www.addthis.com/get/smart-layers to customize -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f2996314fcd3dfc"></script>
+<script type="text/javascript">
   addthis.layers({
     'theme' : 'transparent',
     'share' : {
@@ -133,4 +228,8 @@
       ]
     }
   });
-</script><!-- AddThis Smart Layers END --></body></html>
+</script>
+<!-- AddThis Smart Layers END -->
+
+</body>
+</html>
