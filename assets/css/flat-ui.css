@@ -947,7 +947,8 @@ h6 {
   margin: 7px 10px;
 }
 .navbar-inverse .nav > li:first-child.active > a {
-  padding-left: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 .navbar-inverse .nav > li:first-child > a {
   border-left: none;
@@ -959,14 +960,14 @@ h6 {
   border-bottom-color: #16a085;
   border-left: none;
   color: #ffffff;
-  padding-left: 22px;
+  padding-left: 15px;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
 }
 .navbar-inverse .nav > li.active + li > a {
   border-left: none;
-  padding-left: 22px;
+  padding-left: 15px;
 }
 .navbar-inverse .nav > li > a {
   font-size: 16.002px;
@@ -975,7 +976,6 @@ h6 {
   border-bottom: 2px solid #2c3e50;
   border-left: 2px solid #2c3e50;
   color: #ffffff;
-  padding: 16px 20px 15px;
 }
 .navbar-inverse .nav.pull-right > li > a {
   border-radius: 0 6px 6px 0;
